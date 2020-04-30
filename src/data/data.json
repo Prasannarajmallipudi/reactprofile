@@ -1,0 +1,36 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Prasanna Raj Mallipudi",
+                "role" : "Multi skill Trainer",
+                "Company":"Andhra Pradesh State Skill Development Corporation",
+                "Exp":"4+ Yrs",
+                "email" : "prasannarajmallipudi@gmail.com",
+                "mobile": "+91 8523861231"
+            },
+
+            
+            "education":[
+                {
+                    "degree":"M-Tech (CSE)",
+                    "institution": "Audisankara College of Engineering"
+                },
+                {
+                    "degree":"B-Tech (CSE)",
+                    "institution": "Pragati Engineering College"
+                },
+                {
+                    "degree":"Diploma(Computer engineering)",
+                    "institution":"LKB polytechnic college"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "ZPH School"
+                }
+            ]
+           
+
+        }
+    ]
+}
